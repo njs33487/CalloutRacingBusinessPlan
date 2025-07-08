@@ -36,13 +36,13 @@ Our primary customers are amateur and grassroots racers, car builders, and enthu
 Our unique positioning stems from authentic domain expertise, a comprehensive integrated platform, and cutting-edge features (e.g., real-time location broadcasting, verifiable performance data) that deliver a truly holistic and trustworthy experience no single competitor currently offers.
 
 ### Management Team
-*[To be completed with team details]*
+*[Nicholas Stanley Founder/CEO](https://github.com/njs33487/)
 
 ### Financial Summary
 We project initial losses in Years 1-2 due to heavy investment in growth, achieving profitability by Year 3. Our revenue model is primarily based on marketplace commissions and premium subscriptions.
 
 ### Funding Request
-We are seeking **$1.5 Million** to accelerate product development, scale marketing efforts, and expand our core team to achieve critical user and revenue milestones.
+We are seeking funding to accelerate product development, scale marketing efforts, and expand our core team to achieve critical user and revenue milestones.
 
 ---
 
